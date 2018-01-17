@@ -1,0 +1,13 @@
+[ignore]
+.*/node_modules/.*
+
+[include]
+
+[libs]
+
+[options]
+emoji=true
+module.system=haste
+
+; [version]
+; ^0.37.0
